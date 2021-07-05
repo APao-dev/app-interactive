@@ -21,9 +21,9 @@ const main = async() => {
 
     if(tareasDB) {
         // Establecer las tareas
+        // TODO: cargarTareas
+        tareas.cargarTareasFromArray(tareasDB);
     }
-
-    await pausa();
 
 
     do {
@@ -45,7 +45,7 @@ const main = async() => {
            
         }
 
-        // guardarDB(tareas.listadoArr);
+        guardarDB(tareas.listadoArr);
         
 
 

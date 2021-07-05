@@ -1,1 +1,27 @@
-[{"id":"9dcf3c6d-e43e-4ab8-b8a1-1a5de0febde3","desc":"Recolectar las piedras del infinito","completadoEn":null}]
+[
+    {
+        "id": "244258b9-016e-4bf6-ba87-ab17fb4915fc",
+        "desc": "Alma",
+        "completadoEn": null
+    },
+    {
+        "id": "91fb8980-1060-4652-9fe8-0222aa5ed73d",
+        "desc": "Poder",
+        "completadoEn": null
+    },
+    {
+        "id": "8ae7fcb3-b5e0-4bfc-92f5-c555d25d975e",
+        "desc": "Piedrasss",
+        "completadoEn": null
+    },
+    {
+        "id": "02335990-0b28-443d-a9a1-3ce78ff508a0",
+        "desc": "Recolectar piedras del infinito",
+        "completadoEn": null
+    },
+    {
+        "id": "6b42a4c1-6270-4016-835b-6ce7a96981ab",
+        "desc": "Tiempo",
+        "completadoEn": null
+    }
+]
