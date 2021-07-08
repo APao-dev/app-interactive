@@ -4,7 +4,7 @@ const archivo = './db/data.json';
 
 
 const guardarDB = (data) => {
-
+    
     fs.writeFileSync(archivo, JSON.stringify(data) );
 
 }
@@ -19,9 +19,9 @@ const leerDB = () => {
     console.log(info);
     const data = JSON.parse(info);
 
-    console.log(data);
+    // console.log(data);
 
-    return null;
+    return data;
 }
 
 module.exports = {
